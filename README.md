@@ -1,3 +1,11 @@
+### Following AWS services are provisioned by terraform
+- Custom VPC
+- Custom Subnet
+- Route Table & Internet Gateway
+- Security Group
+- Ec2 Instance
+- Deploy ngiinx Docker Container
+
 ### set avail_zone as custom tf environment variable - before apply
 
     export TF_VAR_avail_zone="us-east-1a"

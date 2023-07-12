@@ -40,5 +40,6 @@
 
     terraform state show aws_vpc.myapp-vpc    
 
-
+### Output
+![output](https://github.com/abdullahafeez/terraform-ec2-project/assets/123733124/ae7c193c-f2b2-4c58-86a4-3a880425d618)
 

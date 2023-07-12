@@ -1,10 +1,10 @@
 ### Following AWS services are provisioned by terraform
-- Custom VPC
-- Custom Subnet
-- Route Table & Internet Gateway
-- Security Group
-- Ec2 Instance
-- Deploy ngiinx Docker Container
+- Create Custom VPC
+- Create Custom Subnet
+- Create Route Table & Internet Gateway
+- Create Security Group
+- Provision Ec2 Instance
+- Deploy nginx Docker Container
 
 ### set avail_zone as custom tf environment variable - before apply
 
